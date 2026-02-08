@@ -4,6 +4,7 @@ import app from './app';
 import seedSuperAdmin from './app/DB';
 import config from './app/config';
 
+
 let server: Server;
 
 async function main() {
